@@ -1,2 +1,2 @@
 
-![download](https://github.com/vdh1612/CTF_write_up/assets/125654739/b7f2c9ed-69af-40dc-bcb9-12f17aa27921)
+![maxresdefault](https://github.com/vdh1612/CTF_write_up/assets/125654739/c90de18d-2e61-4beb-8d1e-5db29714318c)
