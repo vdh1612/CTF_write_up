@@ -1,2 +1,3 @@
 
-![QYg97jR](https://github.com/vdh1612/CTF_write_up/assets/125654739/ce49e1e4-8de1-4bbd-be76-a3eb1f57aadb)
+![QYg97jR](https://github.com/vdh1612/CTF_write_up/assets/125654739/1c7347a8-cab9-4f6b-8f36-77b185087aa9)
+
