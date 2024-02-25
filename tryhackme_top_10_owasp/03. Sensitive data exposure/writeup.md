@@ -45,7 +45,8 @@ Target: http://10.10.112.12/
 
 2) Navigate to the directory you found in question one. What file stands out as being likely to contain sensitive data?
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0051f2f0-1646-4504-bd84-e934e510268c/838c0411-b15c-465d-8c0b-c3267ed6478e/Untitled.png)
+![Screenshot 2024-02-25 165511](https://github.com/vdh1612/CTF_write_up/assets/125654739/deac636d-6347-4e55-96a1-e438dc503240)
+
 
 **Result:** webapp.db is the file contains sensitive data
 
