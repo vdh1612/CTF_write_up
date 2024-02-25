@@ -126,7 +126,7 @@ sqlite> PRAGMA table_info(users);
 ```
 
 Hash	                            Type	Result
-6eea9b7ef19179a06954edd0f6c05ceb	md5	qwertyuiop
+6eea9b7ef19179a06954edd0f6c05ceb    md5	      qwertyuiop
 ```
 
 - Login as admin:
