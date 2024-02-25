@@ -1,5 +1,6 @@
 # 01. Command injection practical
 
+
 [Part 1. Before we start]
 
 The passthru() function is similar to the exec() function in that it executes a command. This function should be used in place of exec() or system() 
