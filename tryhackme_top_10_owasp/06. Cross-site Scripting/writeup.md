@@ -49,7 +49,7 @@ Serving HTTP on 0.0.0.0 port 8888 (http://0.0.0.0:8888/) ...
 
 3) Then add a comment and see if you can insert some of your own HTML.
 
-- Insert any html tag in the output bc the code is not sanitized at all: <h1>Fuck </h1> ⇒ create a tag successfully
+- Insert any html tag in the output bc the code is not sanitized at all: `<h1>Fuck </h1>` ⇒ create a tag successfully
 - Here is the js code:
 
 ```
