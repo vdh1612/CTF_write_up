@@ -24,7 +24,9 @@ rtt min/avg/max/mdev = 1.906/1.995/2.132/0.098 ms
 [*] Testing time
 
 - i use the payload: ;ls 
+
 `index.php`
+
 - Now we know this dir have file source code index.php:
 - I want to show all contents in index.php: ; cat index.php
 
