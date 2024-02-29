@@ -109,7 +109,8 @@ Target: 10.10.48.161
 
 - After loginning successfully, we check the cookie as the tryhackme guides and see the session ID which is really easy to be recognized as base64 encoded string
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0051f2f0-1646-4504-bd84-e934e510268c/383ffbc3-e4e8-41e5-909f-21d212675765/Untitled.png)
+![Screenshot 2024-02-27 214927](https://github.com/vdh1612/CTF_write_up/assets/125654739/e18cfd6e-7a61-4e8d-a6bf-62e3c1ec194b)
+
 
 - As i expect, there is a flag after decoding base 64
 
