@@ -251,3 +251,35 @@ $ cat /home/cmnatic/flag.txt
 [?] Why this happens?
 
 - In /bin/sh, i cat the backend [app.py](http://app.py) to see clearly
+
+```
+$ cat app.py
+from flask import Flask, redirect, render_template, make_response, request
+from datetime import datetime
+
+import uuid
+import pickle
+import base64
+
+import sys
+
+app = Flask(__name__)
+
+@app.route("/")
+def root():
+    return render_template('index.html')
+
+........
+//[?] move to /feedback and it will deserialize for us !
+
+@app.route("/feedback", methods=['GET', 'POST'])
+def feedback():
+
+    cookie = request.cookies.get("encodedPayload")
+    cookie = pickle.loads(base64.b64decode(cookie))
+
+    return render_template('feedback.html')
+
+if __name__ == '__main__':
+    app.run(host="0.0.0.0")
+```
