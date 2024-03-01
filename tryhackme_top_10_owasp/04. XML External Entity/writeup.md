@@ -50,7 +50,7 @@ sys:x:3:3:sys:/dev:/usr/sbin/nologin
 sync:x:4:65534:sync:/bin:/bin/sync
 games:x:5:60:games:/usr/games:/usr/sbin/nologin
 .......
-falcon:x:1000:1000:falcon,,,:/home/falcon:/bin/bash
+falcon:x:1000:1000:falcon:/home/falcon:/bin/bash
 ```
 
 - The name of  the user in /etc/passwd is falcon
