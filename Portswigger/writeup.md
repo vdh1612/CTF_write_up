@@ -4,4 +4,6 @@
    
 3. [XXE labs](https://sordid-cashew-ba3.notion.site/XML-external-entity-XXE-injection-2f2ba0c9407f4024a385ea164ee66925?pvs=4)
 
-3. [Broken access control labs](https://sordid-cashew-ba3.notion.site/Access-control-vulnerabilities-and-privilege-escalation-9891d453166545f3a4d41a7744b97f4c?pvs=25)
+4. [Broken access control labs](https://sordid-cashew-ba3.notion.site/Access-control-vulnerabilities-and-privilege-escalation-9891d453166545f3a4d41a7744b97f4c?pvs=25)
+
+5. [CSRF labs](https://sordid-cashew-ba3.notion.site/CSRF-54acd76c1e8a4fecb589f364848a89be)
