@@ -17,6 +17,7 @@ The challenges included in this repository cover a variety of web vulnerabilitie
 - **Remote Code Execution (RCE)**
 - **File Inclusion Vulnerabilities**
 - **Security Misconfigurations**
+- **MORE...**
 
 Each challenge has its own directory with a detailed write-up explaining the approach taken to solve it, including steps for exploitation, screenshots, and any tools used.
 
