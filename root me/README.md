@@ -19,4 +19,4 @@ Ready to get started? Check out the [Root-Me Web-Server Challenges](https://www.
 
 ---
 
-Stay tuned for more updates! Contributions and feedback are always welcome. 😊
+
