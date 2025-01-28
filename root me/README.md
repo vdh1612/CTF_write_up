@@ -10,7 +10,7 @@ All detailed write-ups for the Web-Server challenges are available on my Notion 
 ## Repository Goals
 This repository serves the following purposes:
 - Provide an overview of the Web-Server challenges.
-- Share additional resources and tools for web application security.
+  
 - Link to comprehensive write-ups for each challenge.
 
 ---
