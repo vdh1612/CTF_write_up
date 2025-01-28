@@ -13,9 +13,6 @@ This repository serves the following purposes:
 - Share additional resources and tools for web application security.
 - Link to comprehensive write-ups for each challenge.
 
-## Explore the Challenges
-Ready to get started? Check out the [Root-Me Web-Server Challenges](https://www.root-me.org/en/Challenges/Web-Server/) and begin your journey into web application security.
-
 ---
 
 
