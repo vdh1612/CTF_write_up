@@ -21,10 +21,3 @@ The challenges included in this repository cover a variety of web vulnerabilitie
 
 Each challenge has its own directory with a detailed write-up explaining the approach taken to solve it, including steps for exploitation, screenshots, and any tools used.
 
-## Getting Started
-
-To get started with the write-ups in this repository:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/vdh1612/CTF_write_up.git
